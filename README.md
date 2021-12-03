@@ -4,3 +4,4 @@ Cuba Libre
 Rum
 Coke
 Lime
+Brown Sugar
